@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZmZmZmWmZmZmZmZmZaZlmZpZpZmZmmQYAkGkAAACZBgCQaQAAAJkGAJBpAAAAmQYAkGkAAACZBgCQaQAAAJkGAJBpAAAAmQYAYGYAAACZBgAAAAAAAJkGAAAAAAAAZgYAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "letra_F"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZmZmZmWmZmZmZmZmZaZlmZpZpZpZpmQYAkGkAkGmZBgCQaQCQaZkGAJBpAJBpmQYAkGkAkGmZBgCQaQCQaZkGAJBpAJBpmQYAYGYAkGmZBgAAAACQaZkGAAAAAJBpZgYAAAAAYGYAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "letra_E"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZmZmZmWmZmZmZmZmZaWZmZmZmZpZpAAAAAAAAkGkAAAAAAACQaQAAAAAAAJBpAAAAAAAAkGkAAAAAAACQaQAAAAAAAJBpAAAAAAAAkGkAAAAAAACQaQAAAAAAAJBpAAAAAAAAYGYAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "letra_L"
+    },
+    "image3": {
+        "data": "hwQHABAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZmZmZmWmZmZmZmZmZaWZmZmZmZmZmAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "letra_I"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
